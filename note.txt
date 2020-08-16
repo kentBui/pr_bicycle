@@ -1,0 +1,54 @@
+1. nav 
+- font: lato 13pt upper #4d4959
+- has one dot between item 1,2 and 3,4
+- distance from dot - content of item = 35px
++ padding top 35
++ height: 85;
++ hero: height: 800
+
+2. heading
+- h1 lato bold 18 upper mt-35
+- p lato regular 18 normal mt-35
+- height 470
+- text center
+- top 117
+- bot 145
+
+
+3.bicycle
+- div = 3 / 3 h=600 = 400+200
+- heading lato 18pt bold #353738 mt-30
+- p 16pt #848789 mt-25
+- riangle at one item p-70 pb-65
+
+4. slides: 3 slide
+- dots: 
+width 10px height 10px border 0.5px
+color active and border: #a9afb3
+-height 470
+
+5. layout: 
+background color: #58a589
+shop now: white, lato 14pt upper
+
+6. button 
+- lato 14pt bold upper
+- w 300 h 50
+- back #282f35
+
+6.5 logo
+lato italic 24pt
+
+7. form
+- input: place and text: lato 20pt italic
+	w 400 h70 
+- button : w 125 h 70 bg: #64c29e
+
+8. add
+- lato bol upper 16pt #848789
+- lagto 13.9pt italic 
+
+9. social
+- w, h 35 
+- radius 50%
+-bg1: #78cdf0 , #537bbd, #eb5755

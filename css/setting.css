@@ -1,0 +1,21 @@
+:root {
+    --clrText: #4d4959;
+    --clrInfoText: #848789;
+    --clrTitleText: #353738;
+    --transAll: all 0.35s ease-in-out;
+}
+
+html {
+    font-family: lato, sans-serif;
+    font-size: 62.5%;
+}
+
+ul {
+    list-style: none;
+}
+
+a,
+a:hover {
+    text-decoration: none;
+    color: inherit;
+}
