@@ -1,21 +1,26 @@
 :root {
-    --clrText: #4d4959;
-    --clrInfoText: #848789;
-    --clrTitleText: #353738;
-    --transAll: all 0.35s ease-in-out;
+  --clrText: #4d4959;
+  --clrInfoText: #848789;
+  --clrTitleText: #353738;
+  --bgHover: rgba(100, 194, 158, 0.8);
+  --bgButton: #282f35;
+  --bgGo: #64c29e;
+  --bgMain: #f7f7f7;
+  --transAll: all 0.35s ease-in-out;
 }
 
 html {
-    font-family: lato, sans-serif;
-    font-size: 62.5%;
+  font-family: lato, sans-serif;
+  font-size: 62.5%;
+  background-color: var(--bgMain);
 }
 
 ul {
-    list-style: none;
+  list-style: none;
 }
 
 a,
 a:hover {
-    text-decoration: none;
-    color: inherit;
+  text-decoration: none;
+  color: inherit;
 }
